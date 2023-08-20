@@ -1,8 +1,8 @@
 # hola-mundo
 
-Mi primer repositorio
+## Mi primer repositorio
 
-##About me
+# About me
 
 * **I love chocolate** 🍫🍪🍰
 
@@ -12,5 +12,4 @@ Mi primer repositorio
 
 * **I love reading** 📖✨🧉
 
-### Contacto:
-**fecamona@hotmail.com**
+
