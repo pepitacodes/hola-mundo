@@ -13,4 +13,4 @@ Mi primer repositorio
 * **I love reading** 📖✨🧉
 
 ### Contacto:
-[<EMAIL>](mailto:<EMAIL>)
+**fecamona@hotmail.com**
