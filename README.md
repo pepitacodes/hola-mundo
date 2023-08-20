@@ -2,8 +2,12 @@
 
 Mi primer repositorio
 
-I love chocolate 🍫
+##About me
 
-I love camping ⛺
+* **I love chocolate** 🍫🍪🍰
 
-I love swiming 🏊
+* **I love camping** ⛺🌠🔭
+
+* **I love swiming** 🌊🏊🏖️
+
+* **I love reading** 📖✨🧉
