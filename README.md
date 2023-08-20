@@ -12,4 +12,8 @@
 
 * **I love reading** 📖✨🧉
 
+# I'm learning:
+
+* **Java** ☕
+* **Python** 🐍
 
