@@ -14,6 +14,7 @@
 
 # I'm learning:
 
-* **Java** ☕
-* **Python** 🐍
+* **Java**☕
+* **Python**🐍
+
 
